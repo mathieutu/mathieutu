@@ -1,18 +1,13 @@
-# Mathieu TUDISCO
-
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/mathieutu)](https://twitter.com/mathieutu/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathieutu/)](https://www.linkedin.com/in/mathieutu/)
 [![Blog](https://img.shields.io/badge/-Blog-222222?style=flat-square&logo=firefox-browser&logoColor=white&link=https://mathieutu.dev)](https://mathieutu.dev)
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mathieutu&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true)](https://github.com/mathieutu)
 
 ```typescript
 export const me: Profile = {
-  firstName: 'Mathieu',
-  lastName: 'Tudisco',
-  userName: 'mathieutu',
   pronouns: ['He', 'Him'],
   jobTitle: 'Fullstack Lead Developer',
-  nationality; 'French',
   blogUrl: "http://mathieutu.dev/",
   emails: {
     recruting: 'jobs@mathieutu.dev',
@@ -54,5 +49,3 @@ export const me: Profile = {
   ]
 }
 ```
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=mathieutu&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true)](https://github.com/mathieutu)
