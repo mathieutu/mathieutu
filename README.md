@@ -17,7 +17,7 @@
 </p>
 
 ```typescript
-export const me: FullstackLeadDeveloper = {
+export const mathieutu: FullstackLeadDeveloper = {
   pronouns: ['He', 'Him'],
   blogUrl: "http://mathieutu.dev",
   emails: { recruting: 'jobs@mathieutu.dev', openSourceContributions: 'oss@mathieutu.dev', general: 'contact@mathieutu.dev' },
