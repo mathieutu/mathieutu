@@ -17,10 +17,9 @@
 </p>
 
 ```typescript
-export const me: Profile = {
+export const me: FullstackLeadDeveloper = {
   pronouns: ['He', 'Him'],
-  jobTitle: 'Fullstack Lead Developer',
-  blogUrl: "http://mathieutu.dev/",
+  blogUrl: "http://mathieutu.dev",
   emails: { recruting: 'jobs@mathieutu.dev', openSourceContributions: 'oss@mathieutu.dev', general: 'contact@mathieutu.dev' },
   askMeAbout: [
     'web development', 'tech and science', 'mechanical enginering',
@@ -29,31 +28,22 @@ export const me: Profile = {
   ],
   talkMeAbout: '*',
   mainTechnologies: {
-    frontEnd: {
-      '+++': [/(java|type)script/, 'vuejs','react'],
-      '++': ['html', 'css frameworks', 'tailwindcss']
-      '+': ['vanilla css']
-    },
-    backEnd: {
-      '++++': ['PHP Laravel'],
-      '+++': ['nodejs', 'express']
-    },
-    other: {
-      '++': ['PostgreSQL', 'Docker'],
-      '+': ['mongo', /.*SQL$/, /.*sh/]
-    },
+    frontEnd: { '+++': [/(java|type)script/, 'vuejs','react'], '++': ['html', 'css frameworks', 'tailwindcss'], '+': ['vanilla css'] },
+    backEnd: { '++++': ['PHP', 'Laravel'], '+++': ['nodejs', 'express'] },
+    other: { '++': ['PostgreSQL', 'Docker'], '+': ['mongo', /.*SQL$/, /.*sh/] },
   },
-  mainCommunityContributions: [
+  openSourceContributions: [
     'Regular contributor of Laravel codebase',
+    'Hundred of Open Source projects including VueJs, Symfony, Nuxt, TailwindCss, Webpack, etc...',
+    'Creator and maintainer of a dozen of PHP and TS packages (~300k downloads)',
+  ],
+  mainCommunityContributions: [
     'Former host of Laravel Paris Meetup',
     'Regular Speaker of Laravel Lyon Meetup',
     'Host of VueJS Lyon Meetup',
     'Host/Moderator of Laravel France Community Chat',
-    'Maintainer of several PHP and TS packages',
-  ],
-  sideJobs: [
     'School teacher about Programing, Agile projects, Laravel Php, NodeJS, ReactJS, VueJS, and Testing processes',
-    'Trainer in tech teams',
-  ]
+    'Regular trainer for all kind of tech teams',
+  ],
 }
 ```
