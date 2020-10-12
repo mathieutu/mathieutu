@@ -1,10 +1,4 @@
 <p align="center">  
-  <a href="https://github.com/mathieutu">
-    <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=mathieutu&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true&icon_color=d73a49&hide_title=true" />
-  </a>
-</p>
-
-<p align="center">  
   <a href="https://twitter.com/mathieutu/">
     <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white" />
   </a>
