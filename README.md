@@ -14,17 +14,19 @@
 export const mathieutu: FullstackLeadDeveloper = {
   pronouns: ['He', 'Him'],
   blogUrl: "http://mathieutu.dev",
+  currentJob: { position: 'Freelance', availability: 'To hire, part time' },
   emails: { recruting: 'jobs@mathieutu.dev', openSourceContributions: 'oss@mathieutu.dev', general: 'contact@mathieutu.dev' },
   askMeAbout: [
     'web development', 'tech and science', 'mechanical enginering',
     'traveling', 'hiking', 'bicycling',
-    'ecology', 'society'
+    'mountain', 'caving', 'climbing',
+    'cities', 'ecology', 'society',
   ],
   talkMeAbout: '*',
   mainTechnologies: {
-    frontEnd: { '+++': [/(java|type)script/, 'vuejs','react'], '++': ['html', 'css frameworks', 'tailwindcss'], '+': ['vanilla css'] },
-    backEnd: { '++++': ['PHP', 'Laravel'], '+++': ['nodejs', 'express'] },
-    other: { '++': ['PostgreSQL', 'Docker'], '+': ['mongo', /.*SQL$/, /.*sh/] },
+    frontEnd: { '+++': [/(Java|Type)Script/, 'Vue.js','React'], '++': ['HTML', 'CSS frameworks', 'TailwindCss', 'Svelte'], '+': ['vanilla CSS'] },
+    backEnd: { '++++': ['PHP', 'Laravel'], '+++': ['Node.js'], '++': ['Symfony'] },
+    other: { '+++': ['PostgreSQL', 'Docker'], '+': ['Mongo', /.*SQL$/, /.*sh/] },
   },
   openSourceContributions: [
     'Regular contributor of Laravel codebase',
