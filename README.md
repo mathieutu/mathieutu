@@ -1,13 +1,14 @@
 <p align="center">  
-  <a href="https://twitter.com/mathieutu/">
-    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white" />
+  <a href="https://bsky.app/profile/mathieutu.dev">
+    <img alt="Bluesky" src="https://img.shields.io/badge/BlueSky-1185fe?logo=bluesky&logoColor=white" />
   </a>
+&nbsp;
   <a href="https://www.linkedin.com/in/mathieutu/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white" />
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mathieutu.dev">
+  <!-- <a href="https://mathieutu.dev">
     <img alt="Blog" src="https://img.shields.io/badge/-Blog-b2786b?logo=firefox-browser&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ```typescript
