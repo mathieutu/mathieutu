@@ -1,14 +1,17 @@
 <p align="center">  
-  <a href="https://bsky.app/profile/mathieutu.dev">
-    <img alt="Bluesky" src="https://img.shields.io/badge/BlueSky-1185fe?logo=bluesky&logoColor=white" />
-  </a>
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=11351322" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=11351322&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @mathieutu" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=11351322&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+</p>
+<p align="center">  
+  <a href="https://bsky.app/profile/mathieutu.dev"><img alt="Bluesky" src="https://img.shields.io/badge/BlueSky-1185fe?logo=bluesky&logoColor=white" /></a>
 &nbsp;
-  <a href="https://www.linkedin.com/in/mathieutu/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white" />
-  </a>
-  <!-- <a href="https://mathieutu.dev">
-    <img alt="Blog" src="https://img.shields.io/badge/-Blog-b2786b?logo=firefox-browser&logoColor=white" />
-  </a> -->
+  <a href="https://www.linkedin.com/in/mathieutu/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://mathieutu.dev"><img alt="Website" src="https://img.shields.io/badge/-Blog-b2786b?logo=firefox-browser&logoColor=white" /></a>
 </p>
 
 ```typescript
